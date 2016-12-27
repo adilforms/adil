@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Mozilla Firefox
+Exec=env WINEPREFIX="/home/master/.local/share/wineprefixes/firefox" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/master/.local/share/wineprefixes/firefox/dosdevices/c:/users/Public/Desktop/Mozilla\\ Firefox.lnk
+Type=Application
+StartupNotify=true
+Path=/home/master/.local/share/wineprefixes/firefox/dosdevices/c:/Program Files (x86)/Mozilla Firefox
+Icon=5584_firefox.0
